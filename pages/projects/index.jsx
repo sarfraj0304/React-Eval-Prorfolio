@@ -17,7 +17,7 @@ const Projects = ({ data }) => {
   return (
     <Box
       //   height="600px"
-      width="90%"
+      width="91%"
       borderRadius={"10px"}
       bg="#a8d4f6"
       m={"auto"}
